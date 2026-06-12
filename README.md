@@ -77,10 +77,10 @@ ModSecurity Audit Logs -> Wazuh Agent -> Wazuh Manager/Dashboard
 
 ## Repository Contents
 
-- `project_profile_public.pdf`: public project profile for GitHub/CV use.
-- `PROJECT_SUMMARY.md`: concise project summary and contribution notes.
-- `CV_DESCRIPTION.md`: CV-ready descriptions in English and Vietnamese.
-- `PUBLICATION_NOTES.md`: checklist for safe public publishing.
+- `project_profile_public.pdf`
+- `PROJECT_SUMMARY.md`
+- `CV_DESCRIPTION.md`
+- `PUBLICATION_NOTES.md`
 
 ## Disclaimer
 
